@@ -1,5 +1,6 @@
 # Turtle-CLI Docker Image
 
+[![DockerHub](https://img.shields.io/docker/pulls/thesinner/turtle-cli.svg)](https://hub.docker.com/r/thesinner/turtle-cli)
 
 ## Usage
 
